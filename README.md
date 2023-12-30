@@ -31,5 +31,7 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 <a href="http://www.github.com/franchsli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=franchsli&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/franchsli"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=franchsli&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franchsli&bg_color=000000&color=0b8ee0&line=4c9e91&point=11d48a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
                     
         
