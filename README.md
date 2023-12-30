@@ -28,6 +28,7 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 
 <b>My GitHub Stats</b>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franchsli)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="http://www.github.com/franchsli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=franchsli&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
