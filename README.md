@@ -24,7 +24,8 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 
 <p align="left"> <a href="https://discord.com/users/377975476628750337" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+            <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
             <source media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
@@ -41,7 +42,8 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
         </picture>
     </a> <a href="http://www.instagram.com/franchslimon?igsh=OGY3MTU3OGY1Mw==" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+            <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
             <source media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
