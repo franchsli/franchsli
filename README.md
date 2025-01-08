@@ -63,7 +63,6 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 </p>
 
 # 📊 GitHub Stats:
-![franchsli's Stats](https://github-readme-stats.vercel.app/api?username=franchsli&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <a href="http://www.github.com/franchsli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=franchsli&stroke=ffffff&background=151515&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franchsli&bg_color=151515&color=fefefe&line=00ebc4&point=11d48a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
