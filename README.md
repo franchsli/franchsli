@@ -58,7 +58,7 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 
 # 💻 Tech Stack:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,python,js,html,css,bootstrap,postgresql,django,htmx" alt="">
+<img src="https://skillicons.dev/icons?i=git,github,python,js,html,css,bootstrap,postgresql,django,htmx" alt="">
 </p>
 
 # 📊 GitHub Stats:
