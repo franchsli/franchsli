@@ -8,7 +8,7 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 * 🌍  I'm based in Cali, Colombia
 * 🖥️  See my portfolio at [Francisco Arboleda](https://franchsli.github.io/portfolio/)
 * ✉️  You can contact me at [franciscodavidarboleda@hotmail.com](mailto:franciscodavidarboleda@hotmail.com)
-* 🚀  I'm currently working on [Whatsapp Clone](https://github.com/franchsli/whatsapp_clone_django)
+* 🚀  I'm currently working on [Django Ecommerce](https://github.com/franchsli/Django-Ecommerce)
 * 🧠  I'm learning Python, Django, Django Rest Framework and Javascript.
 * 🤝  I'm open to collaborating on other Django projects.
 * ⚡  I love pizza.
