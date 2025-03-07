@@ -13,13 +13,11 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 * 🤝  I'm open to collaborating on other Django projects.
 * ⚡  I love pizza.
 
-
-
 # 🌐 Socials
 
 <p align="left"> <a href="https://discord.com/users/377975476628750337" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" 
+            <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
             <source media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
@@ -37,7 +35,7 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
         </picture>
     </a> <a href="http://www.instagram.com/franchslimon/" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" 
+            <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
             <source media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
@@ -55,20 +53,23 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
         </picture>
     </a></p>
 
+# 💻 Tech Stack
 
-# 💻 Tech Stack:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,python,js,html,css,bootstrap,postgresql,django,htmx" alt="">
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
 <a href="http://www.github.com/franchsli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=franchsli&stroke=ffffff&background=151515&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franchsli&bg_color=151515&color=fefefe&line=00ebc4&point=11d48a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=franchsli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
@@ -78,9 +79,3 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 ![](https://github-contributor-stats.vercel.app/api?username=franchsli&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=franchsli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
-
-
-
-
-
-
