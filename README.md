@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a very perfectionist and positive self-taught web developer that loves making code.
 
-* 🌍  I'm based in Cali, Colombia
+* 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [Francisco Arboleda](https://franchsli.github.io/portfolio/)
 * ✉️  You can contact me at [franciscodavidarboleda@hotmail.com](mailto:franciscodavidarboleda@hotmail.com)
 * 🚀  I'm currently working on [AI Flashcard Generator](https://github.com/franchsli/AIFlashcardGenerator)
