@@ -8,7 +8,7 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [Francisco Arboleda](https://franchsli.github.io/portfolio/)
 * ✉️  You can contact me at [franciscodavidarboleda@hotmail.com](mailto:franciscodavidarboleda@hotmail.com)
-* 🚀  I'm currently working on [AI Flashcard Generator](https://github.com/franchsli/AIFlashcardGenerator)
+* 🚀  I'm currently working on [SignSpeak](https://github.com/franchsli/SignSpeak)
 * 🧠  I'm learning Python, Django, Django Rest Framework and Javascript.
 * 🤝  I'm open to collaborating on other Django projects.
 * ⚡  I love pizza.
