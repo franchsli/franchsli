@@ -51,7 +51,7 @@ I'm a very perfectionist and positive self-taught web developer that loves makin
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=franchsli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://trophy.ryglcloud.net/?username=franchsli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
